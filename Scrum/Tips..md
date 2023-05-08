@@ -1,0 +1,87 @@
+
+- Scrum does not require having aligned Sprints for multiple teams.
+- ---
+- **Sprint Backlog:** The Product Backlog items selected for this Sprint plus the plan for delivering them.
+- ---
+- Product Owner -> Product Backlog
+- ---
+- Developer Team -> Scrum Backlog
+- ---
+- **What happens during the Sprint? Select three answers.**
+	- Scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned
+	- Quality goals do not decrease
+	- No changes are made that would endanger the Sprint Goal
+- ---
+- **What is the input to the Sprint Planning**: 
+	- The Product Backlog.
+	- The latest product Increment.
+	- Projected capacity of the Development Team during the Sprint.
+	- Past performance of the Development Team.
+- ---
+- **Can invite orther people**: 
+	- Sprint Planning.
+	- Sprint Review.
+- ---
+- Sprint Review can invite : **Scrum Team**, **Stakeholders**, **The Product Owner**, **The Development Team**.
+- ---
+- **Product Backlog management includes**:
+	- Clearly expressing Product Backlog items;
+	- Ordering the items in the Product Backlog to best achieve goals and missions;
+	- Optimizing the value of the work the Development Team performs;
+	- Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will work on next; and,
+	- Ensuring the Development Team understands items in the Product Backlog to the level needed.
+- ---
+- **How does Definition of “Done” help the Scrum Team**: 
+	- DoD is used to assess when work is complete on the product Increment
+	- DoD guides the Development Team in knowing how many Product Backlog items it can select during a Sprint Planning
+	- DoD ensures artifact transparency
+- ---
+- **The Scrum Master serves the Product Owner in several ways, including**:
+	- Ensuring that goals, scope, and product domain are understood by everyone on the Scrum Team as well as possible;
+	- Finding techniques for effective Product Backlog management;
+	- Helping the Scrum Team understand the need for clear and concise Product Backlog items;
+	- Understanding product planning in an empirical environment;
+	- Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value;
+	- Understanding and practicing agility;
+	- Facilitating Scrum events as requested or needed.
+- ---
+- The **Scrum artifacts** are **Product Backlog**, **Sprint Backlog** and **Increment**.
+- ---
+- **The result of the Sprint Review** || **What is the result of the Sprint Review**: is a revised Product Backlog that defines the probable Product Backlog items for the next Sprint. The Product Backlog may also be adjusted overall to meet new opportunities.
+- ---
+- **What are the three main qualities the team model in Scrum is designed to optimize**: The team model in Scrum is designed to **optimize**, **flexibility**, **creativity**, and **productivity**.
+- ---
+- **Definition of “Done”** created by **Developer Team**.
+- ---
+- The Product Backlog lists **all features**, **functions**, **requirements**, **enhancements**, and **fixes** that constitute the changes to be made to the product in future releases.
+- ---
+- *(Vietnamese)* Bốn sự kiện của Scrum là **cần thiết** và **không được bỏ qua**.
+- ---
+- Scrum recommends using only those Scrum components and rules which suit most for a particular project: **False**.
+- ---
+- **Who is responsible for promoting and supporting Scrum**: The Scrum Master.
+- ---
+- **Who is responsible for all estimates in the Product Backlog**:
+	- The **Development Team** is responsible for all estimates in the Product Backlog.
+- ---
+- **The purpose of the Sprint Retrospective is to**:
+	- Inspect how the last Sprint went with regards to people, relationships, process, and tools;
+	- Identify and order the major items that went well and potential improvements; and,
+	- Create a plan for implementing improvements to the way the Scrum Team does its work.
+- ---
+- **At the end of the Sprint, all items are Done except for one that is almost Done. What should be done with this item**: Move it back to the Product Backlog.
+- ---
+- **Who is responsible for crafting the Sprint Goal at the Sprint Planning**: The Scrum Team
+- ---
+- **How does the Scrum Master help to the Product Owner**
+	- Facilitating Scrum events as requested or needed
+	- Understanding product planning in an empirical environment
+	- Finding techniques for effective Product Backlog management
+	- Introducing cutting edge development practices
+- ---
+- **When do Development Team members take ownership of a Sprint Backlog item**:
+	- Never. All Sprint Backlog Items are ג€ownedג€ by the entire Scrum Team.
+- ---
+- **Five new Scrum Teams have been created to build one product. A few of the developers on one of the Scrum Teams ask the Scrum Master how to coordinate their work with the order teams. What should the Scrum Master do**:
+	- Teach them that it is their responsibility to work with the other teams to create an integrated Increment that is inclusive of all five team's work..
+- ---

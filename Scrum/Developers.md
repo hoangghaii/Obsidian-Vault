@@ -1,0 +1,6 @@
+- Là những cá nhân trong Scrum Team, cam kết tạo ra các thành phần của một Increment khả dụng sau mỗi Sprint.
+- Các kỹ năng cụ thể cần thiết của Developers là khác nhau tùy theo lĩnh vực công việc. Tuy nhiên, các Developer luôn luôn chịu trách nhiệm:
+	- Tạo ra kế hoạch cho Sprint, gọi là Sprint Backlog.
+	- Nâng cao chất lượng bằng cách tuân thủ ==Định nghĩa về sự hoàn tất==.
+	- Thay đổi để thích ứng kế hoạch hằng ngày nhằm hoàn tất Sprint.
+	- Chịu trách nhiệm với nhau như những người chuyên nghiệp.

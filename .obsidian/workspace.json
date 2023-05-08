@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "3c36445347e3f859",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2adbd17ec0ad1c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb1113c5def1e99b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b21ba77dd1c4f0bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a390fa15172d952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ac02bb6c51b7bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c16a1d3b69218e80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0718b9ba9af0f538",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a890be5e04d2ec5d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e84d7f950a08ba52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 451.5
+  },
+  "right": {
+    "id": "1818ef90f5f8dee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b40f6790ed54aba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5cd640227610045",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3e247ebdd6fdab3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9bf8326f839e1e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 474.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b5cd640227610045",
+  "lastOpenFiles": [
+    "Scrum/Định nghĩa Scrum.md",
+    "Scrum/Tips..md",
+    "Scrum/Scrum Team.md",
+    "Scrum/Scrum Master.md",
+    "Scrum/Product Owner.md",
+    "Scrum/Scrum Learing Note.md",
+    "Scrum/Khía cạnh học thuyết của Scrum.md",
+    "Scrum/Giá trị của Scrum.md",
+    "Scrum/Developers.md",
+    "Scrum/Các tạo phẩm của Scrum.md",
+    "Scrum/Các sự kiện trong Scrum.md",
+    "Scrum",
+    "Javascript/Tips.md",
+    "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
+    "Javascript/CLASSES IN JAVASCRIPT.md",
+    "Javascript",
+    "Obsidian-Vault/Javascript/Tips.md",
+    "Obsidian-Vault/Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
+    "Obsidian-Vault/Javascript/CLASSES IN JAVASCRIPT.md",
+    "Obsidian-Vault/Javascript",
+    "Obsidian-Vault/Scrum/Định nghĩa Scrum.md",
+    "Obsidian-Vault/Scrum/Tips..md",
+    "Obsidian-Vault/Scrum/Scrum Team.md",
+    "Obsidian-Vault/Scrum/Scrum Master.md",
+    "Obsidian-Vault/Scrum/Scrum Learing Note.md",
+    "Obsidian-Vault/Scrum/Product Owner.md",
+    "Obsidian-Vault/Scrum/Khía cạnh học thuyết của Scrum.md",
+    "Obsidian-Vault/Scrum/Giá trị của Scrum.md",
+    "Obsidian-Vault/Scrum/Các tạo phẩm của Scrum.md",
+    "Obsidian-Vault/Scrum",
+    "Obsidian-Vault",
+    "Javascript2",
+    "Pasted image 20230407113928.png",
+    "Pasted image 20230407113918.png",
+    "Pasted image 20230407113734.png",
+    "Pasted image 20230407113732.png",
+    "Short report (Violin Plot)",
+    "Untitled.canvas",
+    "Short report (Violin Plot)/Pasted image 20230403112201.png",
+    "Short report (Violin Plot)/Pasted image 20230403101216.png"
+  ]
+}

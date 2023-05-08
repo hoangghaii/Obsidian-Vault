@@ -1,0 +1,13 @@
+- Là đơn vị cơ bản nhất của Scrum, bao gồm:
+  - Một **Product Owner**
+  - Một **Scrum master**
+  - Các **Development**
+
+- Không có phân cấp hay tổ chức con.
+- Là một đơn vị gắn kết những cá nhân có đầy đủ kỹ năng, chuyên môn hướng tới một mục tiêu đã thống nhất, gọi là **Product Goal**.
+- Có tính đa năng, nghĩa là tất cả các thành viên cộng lại sẽ có đầy đủ các kỹ năng cần thiết để tạo nên giá trị sau mỗi Sprint. Nghĩa là họ sẽ tự quyết định ai sẽ làm công việc gì, khi nào và như thế nào.
+- Nhỏ vừa phải để giữ sự linh hoạt và lớn vừa phải để hoàn thành tất cả các công việc, thường 10 người hoặc ít hơn. Nếu một Scrum Team trở nên lớn hơn, họ nên nghĩ tới việc tái cơ cấu thành những nhóm nhỏ hơn, cùng hướng tới một **Product Goal**, từ đó họ có thể chia sẻ chung **Product Owner, Product Master, Product Backlog**.
+- Chịu trách nhiệm cho tất cả các công việc liên quan tới sản phẩm, từ cộng tác với các bên liên quan ,kiểm định, bảo trì , vận hành, thử nghiệm, phát triển và các công việc có thể có.
+- Được xây dựng và trao quyền bởi tổ chức để quản lí công việc của mình.
+- Làm việc trong Sprint với nhịp điệu ổn định sẽ làm tăng khả năng tập trung và nhất quán của Scrum Team.
+- Chịu trách nhiệm tạo ra một Increment có giá trị, có thể sử dụng được sau mỗi Spring.
