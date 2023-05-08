@@ -22,18 +22,19 @@
             }
           },
           {
-            "id": "71289747c181d83e",
+            "id": "31883a0192465320",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Tips.md",
+                "file": "Javascript/METAPROGRAMMING.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1818ef90f5f8dee8",
@@ -147,10 +147,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cb1113c5def1e99b",
+  "active": "31883a0192465320",
   "lastOpenFiles": [
     "Javascript/Tips.md",
     "Javascript/CLASSES IN JAVASCRIPT.md",
+    "Javascript/METAPROGRAMMING.md",
     "Scrum/Định nghĩa Scrum.md",
     "Scrum/Tips..md",
     "Scrum/Scrum Team.md",
@@ -177,7 +178,6 @@
     "Obsidian-Vault/Scrum/Product Owner.md",
     "Obsidian-Vault/Scrum/Khía cạnh học thuyết của Scrum.md",
     "Obsidian-Vault/Scrum/Giá trị của Scrum.md",
-    "Obsidian-Vault/Scrum/Các tạo phẩm của Scrum.md",
     "Obsidian-Vault/Scrum",
     "Obsidian-Vault",
     "Javascript2",

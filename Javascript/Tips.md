@@ -283,3 +283,4 @@ console.log(publication.changesCounter); // 1
 ```
 - [**`Prototypes` & `Inheritance`**](obsidian://open?vault=Javascript&file=PROTOTYPE%20BASED%20OBJECT%20ORIENTED%20PROGRAMMING)
 - [**`Classes in javascript`**](obsidian://open?vault=Obsidian-Vault&file=Javascript%2FCLASSES%20IN%20JAVASCRIPT)
+- [**`metaprograming`**](obsidian://open?vault=Obsidian-Vault&file=Javascript%2FMETAPROGRAMMING)
