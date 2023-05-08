@@ -84,56 +84,38 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1818ef90f5f8dee8",
     "type": "split",
     "children": [
       {
-        "id": "b40f6790ed54aba7",
+        "id": "e9510a999fe0e33b",
         "type": "tabs",
         "children": [
           {
-            "id": "b5cd640227610045",
+            "id": "05a0645a0f63cf00",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "git-view",
               "state": {}
             }
           },
           {
-            "id": "b3e247ebdd6fdab3",
+            "id": "ba5fcf765f8376c0",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d9bf8326f839e1e0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "git-history-view",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 210.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +128,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b5cd640227610045",
+  "active": "05a0645a0f63cf00",
   "lastOpenFiles": [
     "Scrum/Định nghĩa Scrum.md",
     "Scrum/Tips..md",
