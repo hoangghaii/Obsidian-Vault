@@ -281,7 +281,9 @@ publication.content = 'nothing interesting';
 console.log(publication.text); // nothing interesting
 console.log(publication.changesCounter); // 1
 ```
-- [**`Prototypes` & `Inheritance`**](obsidian://open?vault=Javascript&file=PROTOTYPE%20BASED%20OBJECT%20ORIENTED%20PROGRAMMING)
-- [**`Classes in javascript`**](obsidian://open?vault=Obsidian-Vault&file=Javascript%2FCLASSES%20IN%20JAVASCRIPT)
-- [**`metaprograming`**](obsidian://open?vault=Obsidian-Vault&file=Javascript%2FMETAPROGRAMMING)
-- [**`server-side javascript`**](obsidian://open?vault=Obsidian-Vault&file=Javascript%2FSERVER-SIDE%20JAVASCRIPT)
+
+[[PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING]]
+[[JAVASCRIPT IN WEB BROWSER]]
+[[SERVER-SIDE JAVASCRIPT]]
+[[METAPROGRAMMING]]
+[[CLASSES IN JAVASCRIPT]]

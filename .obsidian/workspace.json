@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31883a0192465320",
+            "id": "1b8d58f068c04686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/SERVER-SIDE JAVASCRIPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d74c3ad9fa63ac64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Tips.md",
+                "file": "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tag",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,10 +117,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba5fcf765f8376c0",
+  "active": "1b8d58f068c04686",
   "lastOpenFiles": [
-    "Javascript/SERVER-SIDE JAVASCRIPT.md",
+    "Scrum/Untitled.canvas",
     "Javascript/Tips.md",
+    "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
+    "Scrum/Scrum Learing Note.md",
+    "Scrum/index.md",
+    "Javascript/JAVASCRIPT IN WEB BROWSER.md",
+    "Javascript/SERVER-SIDE JAVASCRIPT.md",
     "Javascript/METAPROGRAMMING.md",
     "Javascript/CLASSES IN JAVASCRIPT.md",
     "Scrum/Định nghĩa Scrum.md",
@@ -142,14 +133,12 @@
     "Scrum/Scrum Team.md",
     "Scrum/Scrum Master.md",
     "Scrum/Product Owner.md",
-    "Scrum/Scrum Learing Note.md",
     "Scrum/Khía cạnh học thuyết của Scrum.md",
     "Scrum/Giá trị của Scrum.md",
     "Scrum/Developers.md",
     "Scrum/Các tạo phẩm của Scrum.md",
     "Scrum/Các sự kiện trong Scrum.md",
     "Scrum",
-    "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
     "Javascript",
     "Obsidian-Vault/Javascript/Tips.md",
     "Obsidian-Vault/Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
@@ -159,9 +148,6 @@
     "Obsidian-Vault/Scrum/Tips..md",
     "Obsidian-Vault/Scrum/Scrum Team.md",
     "Obsidian-Vault/Scrum/Scrum Master.md",
-    "Obsidian-Vault/Scrum/Scrum Learing Note.md",
-    "Obsidian-Vault/Scrum/Product Owner.md",
-    "Obsidian-Vault/Scrum/Khía cạnh học thuyết của Scrum.md",
     "Obsidian-Vault/Scrum",
     "Obsidian-Vault",
     "Javascript2",
