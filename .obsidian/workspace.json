@@ -8,26 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb1113c5def1e99b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/CLASSES IN JAVASCRIPT.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "31883a0192465320",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/METAPROGRAMMING.md",
+                "file": "Javascript/SERVER-SIDE JAVASCRIPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d74c3ad9fa63ac64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,35 +69,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "0718b9ba9af0f538",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "a890be5e04d2ec5d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "e84d7f950a08ba52",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +82,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e9510a999fe0e33b",
+        "id": "8366d32d6f879af5",
         "type": "tabs",
         "children": [
           {
@@ -128,12 +100,24 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "0718b9ba9af0f538",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
+    "width": 291.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,11 +131,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31883a0192465320",
+  "active": "ba5fcf765f8376c0",
   "lastOpenFiles": [
+    "Javascript/SERVER-SIDE JAVASCRIPT.md",
     "Javascript/Tips.md",
-    "Javascript/CLASSES IN JAVASCRIPT.md",
     "Javascript/METAPROGRAMMING.md",
+    "Javascript/CLASSES IN JAVASCRIPT.md",
     "Scrum/Định nghĩa Scrum.md",
     "Scrum/Tips..md",
     "Scrum/Scrum Team.md",
@@ -177,7 +162,6 @@
     "Obsidian-Vault/Scrum/Scrum Learing Note.md",
     "Obsidian-Vault/Scrum/Product Owner.md",
     "Obsidian-Vault/Scrum/Khía cạnh học thuyết của Scrum.md",
-    "Obsidian-Vault/Scrum/Giá trị của Scrum.md",
     "Obsidian-Vault/Scrum",
     "Obsidian-Vault",
     "Javascript2",
