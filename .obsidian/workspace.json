@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
+                "file": "Javascript/BROWSER OBJECT MODEL (BOM).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1818ef90f5f8dee8",
@@ -119,12 +120,13 @@
   },
   "active": "1b8d58f068c04686",
   "lastOpenFiles": [
+    "Javascript/JAVASCRIPT IN WEB BROWSER.md",
+    "Javascript/BROWSER OBJECT MODEL (BOM).md",
     "Scrum/Untitled.canvas",
-    "Javascript/Tips.md",
     "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
+    "Javascript/Tips.md",
     "Scrum/Scrum Learing Note.md",
     "Scrum/index.md",
-    "Javascript/JAVASCRIPT IN WEB BROWSER.md",
     "Javascript/SERVER-SIDE JAVASCRIPT.md",
     "Javascript/METAPROGRAMMING.md",
     "Javascript/CLASSES IN JAVASCRIPT.md",
