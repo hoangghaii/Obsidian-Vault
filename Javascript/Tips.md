@@ -287,3 +287,4 @@ console.log(publication.changesCounter); // 1
 [[SERVER-SIDE JAVASCRIPT]]
 [[METAPROGRAMMING]]
 [[CLASSES IN JAVASCRIPT]]
+[[DOCUMENT OBJECT MODEL]]
