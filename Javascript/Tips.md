@@ -288,3 +288,5 @@ console.log(publication.changesCounter); // 1
 [[METAPROGRAMMING]]
 [[CLASSES IN JAVASCRIPT]]
 [[DOCUMENT OBJECT MODEL]]
+[[BROWSER OBJECT MODEL (BOM)]]
+[[AJAX]]

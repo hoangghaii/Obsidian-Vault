@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/DOCUMENT OBJECT MODEL.md",
+                "file": "Javascript/Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1818ef90f5f8dee8",
@@ -120,6 +119,7 @@
   },
   "active": "1b8d58f068c04686",
   "lastOpenFiles": [
+    "Javascript/AJAX.md",
     "Javascript/Tips.md",
     "Javascript/DOCUMENT OBJECT MODEL.md",
     "Javascript/BROWSER OBJECT MODEL (BOM).md",
@@ -149,7 +149,6 @@
     "Obsidian-Vault/Javascript",
     "Obsidian-Vault/Scrum/Định nghĩa Scrum.md",
     "Obsidian-Vault/Scrum/Tips..md",
-    "Obsidian-Vault/Scrum/Scrum Team.md",
     "Obsidian-Vault/Scrum",
     "Obsidian-Vault",
     "Javascript2",
