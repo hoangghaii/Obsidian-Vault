@@ -163,7 +163,7 @@ map.set(obj, obj2);
 map.set(0, obj2);
  
 console.log(map.has(obj)); // true
-console.log(map.get(obj)); // { x: 2 }
+console.log(map.get(obj)); // { x: 1 }
 console.log(map.get(0)); // { x: 2 }
 console.log(map.get(1)); // undefined
  
