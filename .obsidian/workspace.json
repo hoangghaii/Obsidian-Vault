@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/STORAGE.md",
+                "file": "Javascript/Tips..md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1818ef90f5f8dee8",
@@ -119,8 +120,8 @@
   },
   "active": "05b873c0f52754d0",
   "lastOpenFiles": [
-    "Javascript/Tips..md",
     "Javascript/STORAGE.md",
+    "Javascript/Tips..md",
     "Javascript/AJAX.md",
     "Javascript/DOCUMENT OBJECT MODEL.md",
     "Javascript/BROWSER OBJECT MODEL (BOM).md",
