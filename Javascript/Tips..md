@@ -10,32 +10,50 @@
 **Ex**: 
 ```javascript
 var s = 'abcdefghi';
-/**
-	a -> 0,
-	b -> 1,
-	c -> 2,
-	d -> 3,
-	e -> 4,
-	f -> 5,
-	g -> 6,
-	h -> 7,
-	i -> 8
-*/
     
-// slice
-var s2 = s.slice(2, 4); // cd
-var s3 = s.slice(2); // cdefghi
-var s4 = s.slice(-2); // hi
-var s5 = s.slice(2, -4); // cde
+const longString = "This is a very long string which needs, to be split into multiple lines."
 
-// substring
-var s2 = s.substring(2, 4); // cd
-var s3 = s.substring(-2); // abcdefghi
-var s4 = s.substring(2, -4); // ab
+// slice(start, end)
+const stringSlice = longString.slice(2, 8) // => "is is "
+console.log('stringSlice:'+stringSlice+';')
 
-// substr
-var s1 = s.substr(2, 4); // cdef
-var s2 = s.substr(2); // cdefghi
+const stringSlice2 = longString.slice(2, -8) 
+// => "is is a very long string which needs, to be split into multipl"
+console.log('stringSlice2:'+stringSlice2+';')
+
+// substring(start, end)
+const stringSubString = longString.substring(2, 8) 
+// => "is is "
+console.log('stringSubString:'+stringSubString+';')
+
+const stringSubString2 = longString.substring(8, -2)
+/**
+ * khong the nhan doi so am
+ * -2 => 0
+ * => longString.substring(8, 0)
+ * stringSubString2 = longString.substring(8, 0) = "This is "
+ */
+console.log('stringSubString2:'+stringSubString2+';')
+
+// substr(start, length)
+const stringSubStr = longString.substr(2, 8) 
+// => "is is a "
+console.log('stringSubStr:'+stringSubStr+';')
+
+const stringSubStr2 = longString.substr(8, -2)
+/**
+ * khong the nhan doi so am
+ * => ""
+ */
+console.log('stringSubStr2:'+stringSubStr2+';')
+
+const stringSubStr3 = longString.substr(8)
+/**
+ * khong co doi so thu 2
+ * lay het chuoi tu vi tri thu 8
+ * => "a very long string which needs, to be split into multiple lines."
+ */
+console.log('stringSubStr3:'+stringSubStr3+';')
 ```
 
 -  **`for .. in`**:
