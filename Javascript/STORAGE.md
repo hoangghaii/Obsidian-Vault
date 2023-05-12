@@ -41,4 +41,6 @@ for (var i = 0; i < chunks.length; i++) {
 }
 var system = cookies['system']; 
 // returns 'Business Intelligence'
+
+document.cookie = "name=John; max-age=3600; path=/; domain=www.example.org; secure";
 ```
