@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "Scrum"
+  "attachmentFolderPath": "Scrum",
+  "alwaysUpdateLinks": true
 }

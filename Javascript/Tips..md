@@ -290,3 +290,4 @@ console.log(publication.changesCounter); // 1
 [[DOCUMENT OBJECT MODEL]]
 [[BROWSER OBJECT MODEL (BOM)]]
 [[AJAX]]
+[[STORAGE]]

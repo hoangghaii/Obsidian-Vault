@@ -79,7 +79,7 @@
 
 - Làm việc trong Sprint với nhịp điệu ổn định sẽ làm tăng khả năng tập trung và nhất quán của Scrum Team.
 - Chịu trách nhiệm tạo ra một Increment có giá trị, có thể sử dụng được sau mỗi Spring
-[[Tips.]]
+[[Scrum/Tips.]]
 [[Định nghĩa Scrum]]
 [[Khía cạnh học thuyết của Scrum]]
 [[Giá trị của Scrum]]
