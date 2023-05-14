@@ -146,13 +146,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +163,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05b873c0f52754d0",
+  "active": "05a0645a0f63cf00",
   "lastOpenFiles": [
     "Javascript/STORAGE.md",
     "Javascript/Tips..md",
