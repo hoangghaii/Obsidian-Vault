@@ -10,10 +10,24 @@
           {
             "id": "05b873c0f52754d0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Javascript/Tips..md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "36cc6ff0eeee7c8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/CLASSES IN JAVASCRIPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,21 +177,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05a0645a0f63cf00",
+  "active": "05b873c0f52754d0",
   "lastOpenFiles": [
-    "Javascript/STORAGE.md",
+    "Javascript/CLASSES IN JAVASCRIPT.md",
     "Javascript/Tips..md",
+    "Javascript/METAPROGRAMMING.md",
+    "Javascript/SERVER-SIDE JAVASCRIPT.md",
+    "Javascript/JAVASCRIPT IN WEB BROWSER.md",
+    "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
+    "Javascript/STORAGE.md",
     "Javascript/AJAX.md",
     "Javascript/DOCUMENT OBJECT MODEL.md",
     "Javascript/BROWSER OBJECT MODEL (BOM).md",
-    "Javascript/JAVASCRIPT IN WEB BROWSER.md",
     "Scrum/Untitled.canvas",
-    "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
     "Scrum/Scrum Learing Note.md",
     "Scrum/index.md",
-    "Javascript/SERVER-SIDE JAVASCRIPT.md",
-    "Javascript/METAPROGRAMMING.md",
-    "Javascript/CLASSES IN JAVASCRIPT.md",
     "Scrum/Định nghĩa Scrum.md",
     "Scrum/Tips..md",
     "Scrum/Scrum Team.md",
