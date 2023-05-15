@@ -70,6 +70,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "06bc0672f096df43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -112,9 +120,47 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "dc373e7c849a8de3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript/Tips..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b5baa4a90c0fbc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript/Tips..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76b4a44fac5431ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/Tips..md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +178,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05b873c0f52754d0",
+  "active": "05a0645a0f63cf00",
   "lastOpenFiles": [
     "Javascript/CLASSES IN JAVASCRIPT.md",
     "Javascript/Tips..md",
