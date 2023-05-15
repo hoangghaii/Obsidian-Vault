@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/DOCUMENT OBJECT MODEL.md",
+                "file": "Javascript/BROWSER OBJECT MODEL (BOM).md",
                 "mode": "source",
                 "source": false
               }
@@ -136,6 +136,7 @@
   "active": "7782594fec5558f2",
   "lastOpenFiles": [
     "Javascript/Tips..md",
+    "Javascript/DOCUMENT OBJECT MODEL.md",
     "Javascript/SERVER-SIDE JAVASCRIPT.md",
     "Javascript/METAPROGRAMMING.md",
     "Javascript/JAVASCRIPT IN WEB BROWSER.md",
@@ -143,7 +144,6 @@
     "Javascript/CLASSES IN JAVASCRIPT.md",
     "Javascript/STORAGE.md",
     "Javascript/AJAX.md",
-    "Javascript/DOCUMENT OBJECT MODEL.md",
     "Javascript/BROWSER OBJECT MODEL (BOM).md",
     "Scrum/Untitled.canvas",
     "Scrum/Scrum Learing Note.md",
