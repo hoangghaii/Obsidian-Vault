@@ -27,13 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/CLASSES IN JAVASCRIPT.md",
+                "file": "Javascript/DOCUMENT OBJECT MODEL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,14 +70,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "06bc0672f096df43",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -120,47 +113,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "dc373e7c849a8de3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Javascript/Tips..md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7b5baa4a90c0fbc3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Javascript/Tips..md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "76b4a44fac5431ea",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Javascript/Tips..md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,21 +133,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05a0645a0f63cf00",
+  "active": "7782594fec5558f2",
   "lastOpenFiles": [
-    "Javascript/CLASSES IN JAVASCRIPT.md",
     "Javascript/Tips..md",
+    "Javascript/SERVER-SIDE JAVASCRIPT.md",
+    "Javascript/METAPROGRAMMING.md",
+    "Javascript/JAVASCRIPT IN WEB BROWSER.md",
+    "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
+    "Javascript/CLASSES IN JAVASCRIPT.md",
     "Javascript/STORAGE.md",
     "Javascript/AJAX.md",
     "Javascript/DOCUMENT OBJECT MODEL.md",
     "Javascript/BROWSER OBJECT MODEL (BOM).md",
-    "Javascript/JAVASCRIPT IN WEB BROWSER.md",
     "Scrum/Untitled.canvas",
-    "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
     "Scrum/Scrum Learing Note.md",
     "Scrum/index.md",
-    "Javascript/SERVER-SIDE JAVASCRIPT.md",
-    "Javascript/METAPROGRAMMING.md",
     "Scrum/Định nghĩa Scrum.md",
     "Scrum/Tips..md",
     "Scrum/Scrum Team.md",
