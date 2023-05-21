@@ -1,4 +1,4 @@
-- **Inserting Nodes**:
+- **Inserting nodes, apply nodes**:
 ```javascript
 // insertBefore
 <div id="container"><span>Text...</span></div>
