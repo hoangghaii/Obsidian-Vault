@@ -4,30 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "313fdf645d63466d",
+        "id": "78b91d5043e34510",
         "type": "tabs",
         "children": [
           {
-            "id": "b96ecb5b51799640",
+            "id": "8c93b85e88a9045a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9499e032cf550710",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Javascript/DOCUMENT OBJECT MODEL.md",
-                "staged": true
+                "file": "Front-end/NextJS vs ReactJS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1818ef90f5f8dee8",
@@ -120,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Front-end/NextJS vs ReactJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Front-end/NextJS vs ReactJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,14 +141,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Front-end/NextJS vs ReactJS.md"
+              }
+            }
+          },
+          {
+            "id": "2b80bcc7c45b2ce4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,11 +170,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9499e032cf550710",
+  "active": "8c93b85e88a9045a",
   "lastOpenFiles": [
+    "Untitled.table",
+    "Front-end/NextJS vs ReactJS.md",
     "conflict-files-obsidian-git.md",
     "Front-end",
     "Javascript/Tips..md",
@@ -196,8 +206,6 @@
     "Scrum",
     "Javascript",
     "Obsidian-Vault/Javascript/Tips.md",
-    "Obsidian-Vault/Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
-    "Obsidian-Vault/Javascript/CLASSES IN JAVASCRIPT.md",
     "Obsidian-Vault/Javascript",
     "Obsidian-Vault/Scrum",
     "Obsidian-Vault",
