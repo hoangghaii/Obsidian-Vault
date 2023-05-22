@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d2adbd17ec0ad1c1",
+        "id": "b8abd5da921359de",
         "type": "tabs",
         "children": [
           {
-            "id": "05b873c0f52754d0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Tips..md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7782594fec5558f2",
+            "id": "04548d0001a6b4d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/AJAX.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,13 +52,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "9dabfc047291e150",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1818ef90f5f8dee8",
@@ -113,14 +101,47 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "f7043f1386887044",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70bab8dc2535ce59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "432d9be56071e11a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,9 +154,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7782594fec5558f2",
+  "active": "05a0645a0f63cf00",
   "lastOpenFiles": [
     "Javascript/Tips..md",
+    "Javascript/AJAX.md",
     "Javascript/BROWSER OBJECT MODEL (BOM).md",
     "Javascript/DOCUMENT OBJECT MODEL.md",
     "Javascript/SERVER-SIDE JAVASCRIPT.md",
@@ -144,7 +166,6 @@
     "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
     "Javascript/CLASSES IN JAVASCRIPT.md",
     "Javascript/STORAGE.md",
-    "Javascript/AJAX.md",
     "Scrum/Untitled.canvas",
     "Scrum/Scrum Learing Note.md",
     "Scrum/index.md",
