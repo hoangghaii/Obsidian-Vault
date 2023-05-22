@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Tips..md",
+                "file": "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Tips..md",
+                "file": "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Tips..md",
+                "file": "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Tips..md"
+                "file": "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md"
               }
             }
           }
@@ -167,6 +167,7 @@
   "lastOpenFiles": [
     "Javascript/DOCUMENT OBJECT MODEL.md",
     "Javascript/CLASSES IN JAVASCRIPT.md",
+    "Javascript/Tips..md",
     "Javascript/BROWSER OBJECT MODEL (BOM).md",
     "Javascript/AJAX.md",
     "Front-end/NextJS vs ReactJS.md",
@@ -174,7 +175,6 @@
     "conflict-files-obsidian-git.md",
     "Untitled.table",
     "Front-end",
-    "Javascript/Tips..md",
     "Javascript/SERVER-SIDE JAVASCRIPT.md",
     "Javascript/METAPROGRAMMING.md",
     "Javascript/JAVASCRIPT IN WEB BROWSER.md",
