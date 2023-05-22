@@ -11,8 +11,12 @@
             "id": "04548d0001a6b4d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/DOCUMENT OBJECT MODEL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/DOCUMENT OBJECT MODEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/DOCUMENT OBJECT MODEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,14 +140,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Javascript/DOCUMENT OBJECT MODEL.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,21 +163,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09ac02bb6c51b7bb",
+  "active": "04548d0001a6b4d5",
   "lastOpenFiles": [
+    "Javascript/CLASSES IN JAVASCRIPT.md",
+    "Javascript/BROWSER OBJECT MODEL (BOM).md",
+    "Javascript/AJAX.md",
+    "Front-end/NextJS vs ReactJS.md",
+    "New Text Document.txt",
     "conflict-files-obsidian-git.md",
     "Untitled.table",
-    "Front-end/NextJS vs ReactJS.md",
     "Front-end",
     "Javascript/Tips..md",
-    "Javascript/AJAX.md",
-    "Javascript/BROWSER OBJECT MODEL (BOM).md",
     "Javascript/DOCUMENT OBJECT MODEL.md",
     "Javascript/SERVER-SIDE JAVASCRIPT.md",
     "Javascript/METAPROGRAMMING.md",
     "Javascript/JAVASCRIPT IN WEB BROWSER.md",
     "Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
-    "Javascript/CLASSES IN JAVASCRIPT.md",
     "Javascript/STORAGE.md",
     "Scrum/Untitled.canvas",
     "Scrum/Scrum Learing Note.md",
@@ -186,7 +196,6 @@
     "Scrum",
     "Javascript",
     "Obsidian-Vault/Javascript/Tips.md",
-    "Obsidian-Vault/Javascript/PROTOTYPE BASED OBJECT ORIENTED PROGRAMMING.md",
     "Obsidian-Vault/Javascript",
     "Obsidian-Vault/Scrum",
     "Obsidian-Vault",
